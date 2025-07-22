@@ -3,7 +3,7 @@
 Material complementario de simulación para el curso de Probabilidad I
 
 ---
-![](https://behavioralscientist.org/wp-content/uploads/2021/10/You-should-switch_Pinker-resized.gif)
+<img src="[https://example.com/imagen.png](https://behavioralscientist.org/wp-content/uploads/2021/10/You-should-switch_Pinker-resized.gif)" width="200"/>
 ---
 
 ### Recursos para aprender Python
