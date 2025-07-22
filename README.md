@@ -18,7 +18,7 @@ Material complementario de simulación para el curso de Probabilidad I
 * Simular un Dado Justo
 * Simular un Dado Cargado
 #### 1.3_ProbabildadCondicional
-* Simulación de la Probabilidad Condicional
+* Cálculo de la Probabilidad Condicional
 * Problema de Monty Hall
 * Ejercicios
 
