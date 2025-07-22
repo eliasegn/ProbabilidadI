@@ -23,10 +23,14 @@ Material complementario de simulación para el curso de Probabilidad I
 * Ejercicios
 
 ### 2. Variables Aleatorias
+#### VA1_NúmerosPseudoAleatorios
+* Método del Cuadrado
+* Método de Congruencia Lineal
+* Método de MonteCarlo para Cálculo de Integrales
 #### 2.1 VA2_SimulacióndeVariablesAleatorias1
-* Números pseudoaleatorias: Simulación de v.a. Uniformes
 * Simulación de v.a. Bernoulli
 * Simulación de v.a. Binomial
+* Ejemplos
 #### 2.2 VA3_SimulacióndeVariablesAleatorias2
 * Método Aceptación - Rechazo
 * Método de la Función Inversa
@@ -44,7 +48,7 @@ Material complementario de simulación para el curso de Probabilidad I
 * Simulación de la aproximación Poisson a Binomial
 * Ley Fuerte de los Grandes Números y la Probabilidad Frecuentista
 #### 4.2 TL2_TeoremaCentralDelLímite
-* Teorema Central del Límite: Visualización de la Convergencia
+* Visualización de la Convergencia
 * Ejemplos
 
 ## 💻 Recursos para aprender Python
