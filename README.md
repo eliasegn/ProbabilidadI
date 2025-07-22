@@ -27,14 +27,14 @@ Material complementario de simulación para el curso de Probabilidad I
 * Método del Cuadrado
 * Método de Congruencia Lineal
 * Método de MonteCarlo para Cálculo de Integrales
-#### 2.1 VA2_SimulacióndeVariablesAleatorias1
+#### 2.1 VA2_SimulacióndeVariablesAleatoriasDiscretas
 * Simulación de v.a. Bernoulli
-* Simulación de v.a. Binomial
-* Ejemplos
-#### 2.2 VA3_SimulacióndeVariablesAleatorias2
+* Método de la Función Inversa para v.a. discretas finitas
+* Recursión para simular v.a. Poisson y Binomial
+#### 2.2 VA3_SimulacióndeVariablesAleatoriasContinuas
 * Método Aceptación - Rechazo
 * Método de la Función Inversa
-* Ejemplos
+* Histogramas y Visualización
   
 ### 3. Esperanza y Momentos
 #### 3.1 EM1_Esperanza
