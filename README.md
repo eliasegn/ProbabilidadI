@@ -1,4 +1,4 @@
-# 🎲 Probabilidad I 
+# Probabilidad I 
 
 Material complementario de simulación para el curso de Probabilidad I
 
