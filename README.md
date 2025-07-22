@@ -6,7 +6,8 @@ Material complementario de simulación para el curso de Probabilidad I
 ![](https://behavioralscientist.org/wp-content/uploads/2021/10/You-should-switch_Pinker-resized.gif)
 ---
 
-### Recursos para aprender Python
+## 💻 Recursos para aprender Python
+
 #### Libros
 * *Python for Everybody*, Dr. Charles R. Severance. [Enlace](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
 * *Python para Todos*, Raúl González Duque. [Enlace](https://persoal.citius.usc.es/eva.cernadas/informaticaparacientificos/material/libros/Python%20para%20todos.pdf)
