@@ -12,26 +12,29 @@ Material complementario de simulación para el curso de Probabilidad I
 #### 1.1 EP1_ExperimentosAleatorios
 * Elegir *aleatoriamente* de una muestra de 2 elementos (un volado)
 * Elegir *aleatoriamente* de una muestra de n elementos
+* Un Experimento Aleatorio
+### 1.2 EP2_RuinaDelJugador
 * La Ruina del Jugador
-#### 1.2 EP2_IntroducciónASimulaciónEstocástica
+* Visualización del experimento
+#### 1.3 EP3_IntroducciónASimulaciónEstocástica
 * Probabilidad Frecuentista
 * Simular un Dado Justo
 * Simular un Dado Cargado
-#### 1.3_ProbabildadCondicional
+#### 1.4 EP4_ProbabildadCondicional
 * Cálculo de la Probabilidad Condicional
 * Problema de Monty Hall
 * Ejercicios
 
 ### 2. Variables Aleatorias
-#### VA1_NúmerosPseudoAleatorios
+#### 2.1 VA1_NúmerosPseudoAleatorios
 * Método del Cuadrado
 * Método de Congruencia Lineal
 * Método de MonteCarlo para Cálculo de Integrales
-#### 2.1 VA2_SimulacióndeVariablesAleatoriasDiscretas
+#### 2.2 VA2_SimulacióndeVariablesAleatoriasDiscretas
 * Simulación de v.a. Bernoulli
 * Método de la Función Inversa para v.a. discretas finitas
 * Recursión para simular v.a. Poisson y Binomial
-#### 2.2 VA3_SimulacióndeVariablesAleatoriasContinuas
+#### 2.3 VA3_SimulacióndeVariablesAleatoriasContinuas
 * Método Aceptación - Rechazo
 * Método de la Función Inversa
 * Histogramas y Visualización
