@@ -11,7 +11,7 @@ Material complementario de simulación para el curso de Probabilidad I
 ### 1. Espacios de Probabilidad
 #### 1.1 EP1_ExperimentosAleatorios
 * Elegir *aleatoriamente* de una muestra de 2 elementos (un volado)
-* Elegir *aleatoriamente* de una muestra de 2 elementos
+* Elegir *aleatoriamente* de una muestra de n elementos
 * La Ruina del Jugador
 #### 1.2 EP2_IntroducciónASimulaciónEstocástica
 * Probabilidad Frecuentista
