@@ -16,7 +16,7 @@ Material complementario de simulación para el curso de Probabilidad I
 ### 1.2 EP2_RuinaDelJugador
 * La Ruina del Jugador
 * Visualización del experimento
-#### 1.3 EP3_IntroducciónASimulaciónEstocástica
+#### 1.3 EP3_EnfoqueFrecuentista
 * Probabilidad Frecuentista
 * Simular un Dado Justo
 * Simular un Dado Cargado
