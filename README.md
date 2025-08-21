@@ -13,7 +13,7 @@ Material complementario de simulación para el curso de Probabilidad I
 * Elegir *aleatoriamente* de una muestra de 2 elementos (un volado)
 * Elegir *aleatoriamente* de una muestra de n elementos
 * Un Experimento Aleatorio
-### 1.2 EP2_RuinaDelJugador
+#### 1.2 EP2_RuinaDelJugador
 * La Ruina del Jugador
 * Visualización del experimento
 #### 1.3 EP3_EnfoqueFrecuentista
