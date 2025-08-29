@@ -17,8 +17,7 @@ Material complementario de simulación para el curso de Probabilidad I
 * La Ruina del Jugador dependiendo del capital inicial
 #### 1.3 EP3_EnfoqueFrecuentista
 * Probabilidad Frecuentista
-* Simular un Dado Justo
-* Simular un Dado Cargado
+* Ejemplo de Aplicación
 #### 1.4 EP4_ProbabildadCondicional
 * Cálculo de la Probabilidad Condicional
 * Problema de Monty Hall
