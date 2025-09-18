@@ -18,10 +18,9 @@ Material complementario de simulación para el curso de Probabilidad I
 #### 1.3 EP3_EnfoqueFrecuentista
 * Probabilidad Frecuentista
 * Ejemplo de Aplicación
-#### 1.4 EP4_ProbabildadCondicional
-* Cálculo de la Probabilidad Condicional
-* Problema de Monty Hall
-* Ejercicios
+#### 1.4 EP4_MontyHall
+* Simulación del problema de Monty Hall
+* Ejemplos con y sin cambio de puerta
 
 ### 2. Variables Aleatorias
 #### 2.1 VA1_NúmerosPseudoAleatorios
