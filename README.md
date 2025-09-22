@@ -25,6 +25,7 @@ Material complementario de simulación para el curso de Probabilidad I
 ### 2. Variables Aleatorias
 #### 2.1 VA1_NúmerosPseudoAleatorios
 * Simulación de v.a. Uniforme (0,1)
+* Simulación de v.a. Uniforme (a,b)
 * Método de MonteCarlo para Aproximar Áreas
 #### 2.2 VA2_SimulacióndeVariablesAleatoriasDiscretas
 * Simulación de v.a. Bernoulli
