@@ -27,6 +27,8 @@ Material complementario de simulación para el curso de Probabilidad I
 * Simulación de v.a. Uniforme (0,1)
 * Simulación de v.a. Uniforme (a,b)
 * Método de MonteCarlo para Aproximar Áreas
+#### 2.2 VA2_MétododeMonteCarloparaIntegrales
+* Cálculo de Integrales via Monte Carlos
 #### 2.2 VA2_SimulacióndeVariablesAleatoriasDiscretas
 * Simulación de v.a. Bernoulli
 * Método de la Función Inversa para v.a. discretas finitas
