@@ -24,9 +24,8 @@ Material complementario de simulación para el curso de Probabilidad I
 
 ### 2. Variables Aleatorias
 #### 2.1 VA1_NúmerosPseudoAleatorios
-* Método del Cuadrado
-* Método de Congruencia Lineal
-* Método de MonteCarlo para Cálculo de Integrales
+* Simulación de v.a. Uniforme (0,1)
+* Método de MonteCarlo para Aproximar Áreas
 #### 2.2 VA2_SimulacióndeVariablesAleatoriasDiscretas
 * Simulación de v.a. Bernoulli
 * Método de la Función Inversa para v.a. discretas finitas
