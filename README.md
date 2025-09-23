@@ -34,6 +34,7 @@ Material complementario de simulación para el curso de Probabilidad I
 * Método de la Función Inversa para v.a. discretas finitas
 * Recursión para simular v.a. Binomial
 #### 2.4 VA4_SimulacióndeVariablesAleatoriasDiscretasconSoporteNumerable
+* Método de la Función Inversa para v.a. discretas numerables
 * Simulación de v.a. Poisson
 * Simulación de v.a. Geométrica
 #### 2.3 VA4_SimulacióndeVariablesAleatoriasContinuas
