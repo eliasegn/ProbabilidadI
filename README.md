@@ -37,7 +37,7 @@ Material complementario de simulación para el curso de Probabilidad I
 * Método de la Función Inversa para v.a. discretas numerables
 * Simulación de v.a. Poisson
 * Simulación de v.a. Geométrica
-#### 2.3 VA4_SimulacióndeVariablesAleatoriasContinuas
+#### 2.3 VA5_SimulacióndeVariablesAleatoriasContinuas
 * Método de la Función Inversa
 * Método Aceptación - Rechazo
 * Histogramas y Visualización
