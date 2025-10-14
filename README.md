@@ -40,7 +40,6 @@ Material complementario de simulación para el curso de Probabilidad I
 #### 2.3 VA5_SimulacióndeVariablesAleatoriasContinuas
 * Método de la Función Inversa
 * Método Aceptación - Rechazo
-* Histogramas y Visualización
   
 ### 3. Esperanza y Momentos
 #### 3.1 EM1_Esperanza
