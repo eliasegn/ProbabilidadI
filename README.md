@@ -27,17 +27,15 @@ Material complementario de simulación para el curso de Probabilidad I
 * Simulación de v.a. Uniforme (0,1)
 * Simulación de v.a. Uniforme (a,b)
 * Método de Monte Carlo para Aproximar Áreas
-#### 2.2 VA2_MétododeMonteCarloparaIntegrales
-* Cálculo de Integrales via Monte Carlo
-#### 2.3 VA3_SimulacióndeVariablesAleatoriasconSoporteFinito
+#### 2.2 VA2_SimulacióndeVariablesAleatoriasconSoporteFinito
 * Simulación de v.a. Bernoulli
 * Método de la Función Inversa para v.a. discretas finitas
 * Recursión para simular v.a. Binomial
-#### 2.4 VA4_SimulacióndeVariablesAleatoriasconSoporteNumerable
+#### 2.3 VA3_SimulacióndeVariablesAleatoriasconSoporteNumerable
 * Método de la Función Inversa para v.a. discretas numerables
 * Simulación de v.a. Poisson
 * Simulación de v.a. Geométrica
-#### 2.3 VA5_SimulacióndeVariablesAleatoriasContinuas
+#### 2.4 VA4_SimulacióndeVariablesAleatoriasContinuas
 * Método de la Función Inversa
 * Método Aceptación - Rechazo
   
