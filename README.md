@@ -29,11 +29,11 @@ Material complementario de simulación para el curso de Probabilidad I
 * Método de Monte Carlo para Aproximar Áreas
 #### 2.2 VA2_MétododeMonteCarloparaIntegrales
 * Cálculo de Integrales via Monte Carlo
-#### 2.3 VA3_SimulacióndeVariablesAleatoriasDiscretasconSoporteFinito
+#### 2.3 VA3_SimulacióndeVariablesAleatoriasconSoporteFinito
 * Simulación de v.a. Bernoulli
 * Método de la Función Inversa para v.a. discretas finitas
 * Recursión para simular v.a. Binomial
-#### 2.4 VA4_SimulacióndeVariablesAleatoriasDiscretasconSoporteNumerable
+#### 2.4 VA4_SimulacióndeVariablesAleatoriasconSoporteNumerable
 * Método de la Función Inversa para v.a. discretas numerables
 * Simulación de v.a. Poisson
 * Simulación de v.a. Geométrica
