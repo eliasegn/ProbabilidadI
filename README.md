@@ -38,7 +38,7 @@ Material complementario de simulación para el curso de Probabilidad I
 #### 2.4 VA4_SimulacióndeVariablesAleatoriasContinuas
 * Método de la Función Inversa
 * Método Aceptación - Rechazo
-#### 2.5 Extra: VA5_MétododeMonteCarloparaIntegrales
+#### 2.5 VA5EXTRA_MétododeMonteCarloparaIntegrales
 * Aproximación de Integrales por Monte Carlo
   
 ### 3. Esperanza y Momentos
