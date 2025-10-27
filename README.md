@@ -44,9 +44,6 @@ Material complementario de simulación para el curso de Probabilidad I
 ### 3. Esperanza y Momentos
 #### 3.1 EM1_Esperanza
 * Interpretación (con histogramas) de la esperanza y varianza de una v.a.
-* Cálculo numérico de los momentos de una v.a.
-* Función Generadora de Momentos
-* Método de MonteCarlo
   
 ### 4. Teoremas Límite
 #### 4.1 TL1_LeyesDeLosGrandesNúmeros
