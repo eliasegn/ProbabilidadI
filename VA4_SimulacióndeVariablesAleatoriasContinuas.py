@@ -1,5 +1,5 @@
 ################################################################################
-# El Problema de Monty Hall
+# Simulación de Variables Aleatorias Continuas
 # Autor: Elías González Nieto
 # Afil : Facultad de Ciencias - UNAM
 # Curso : Probabilidad I
