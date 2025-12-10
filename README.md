@@ -3,7 +3,7 @@
 Material complementario de simulación para el curso de Probabilidad I
 
 ---
-
+<img width="567" height="463" alt="image" src="https://github.com/user-attachments/assets/ad47686b-83a7-4daa-b6ad-e74890359ee9" />
 ---
 
 ## 📂 Índice
