@@ -3,7 +3,7 @@
 Material complementario de simulación para el curso de Probabilidad I
 
 ---
-![](https://behavioralscientist.org/wp-content/uploads/2021/10/You-should-switch_Pinker-resized.gif)
+
 ---
 
 ## 📂 Índice
